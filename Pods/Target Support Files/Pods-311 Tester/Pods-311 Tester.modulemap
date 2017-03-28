@@ -1,0 +1,6 @@
+framework module Pods_311_Tester {
+  umbrella header "Pods-311 Tester-umbrella.h"
+
+  export *
+  module * { export * }
+}
